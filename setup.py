@@ -3,9 +3,6 @@ import setuptools
 requirements = [
     "torch",
     "torchvision",
-    "gradio_imageslider",
-    "gradio==4.37.1",
-    "matplotlib",
     "opencv-python",
 ]
 
